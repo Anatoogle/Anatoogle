@@ -1,6 +1,7 @@
 ## Hi there 👋, I'm Anatolij Semykin
 
 🌱 I’m currently learning Software Development in C and C++
+
 📄 Know about my experiences www.linkedin.com/in/anatolij-semykin-b033b4171
 
 <!--
